@@ -7,7 +7,7 @@ Let's make a game!
 	version:0
 
 Settings
-	background:https://static.vecteezy.com/system/resources/previews/007/455/514/original/light-green-low-poly-background-polygonal-design-pattern-bright-mosaic-modern-geometric-design-creative-design-templates-connected-lines-with-dots-free-vector.jpg
+	background:https://github.com/HaydenSkeletoid/Magic-Clicker/blob/main/background.jpg?raw=true
 	building cost increase:115%
 	building cost refund:50%
 	spritesheet:icons, 48 by 48, stuff/bunnyIcons.png
