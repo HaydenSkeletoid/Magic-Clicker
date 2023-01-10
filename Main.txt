@@ -27,7 +27,6 @@ Buttons
 		icon:https://raw.githubusercontent.com/HaydenSkeletoid/Magic-Clicker/main/wandclick.png
 		no text
 		class:bigButton hasFlares
-		icon class:shadowed
 		tooltip origin:bottom
 		tooltip class:red
 		
