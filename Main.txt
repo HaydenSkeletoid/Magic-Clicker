@@ -18,7 +18,7 @@ Layout
 	use default
 		
 Buttons
-	*bunnyButton
+	*wandButton
 		name:Make a bunny
 		desc:Click this little bunny to get more bunnies!
 		on click:anim icon wobble
@@ -31,10 +31,10 @@ Buttons
 		tooltip class:red
 		
 Resources
-	*bunny|bunnies
-		name:Bunny|Bunnies
-		desc:These are your bunnies. You can use them to purchase things. Your goal is to have as many bunnies as possible!
-		icon:icons[0,0]
+	*wand|wands
+		name:Wand|Wands
+		desc:These are your wands. You can use them to purchase things.
+		icon:https://raw.githubusercontent.com/HaydenSkeletoid/Magic-Clicker/main/Main.txt
 		class:noBackground
 		show earned
 		
