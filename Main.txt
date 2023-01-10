@@ -24,7 +24,7 @@ Buttons
 		on click:anim icon wobble
 		on click:yield 1 bunny
 		on click:if (have goldenTouch and chance(1%)) yield 1 goldenCarrot
-		icon:https://github.com/HaydenSkeletoid/Magic-Clicker/blob/main/wandclick.png
+		icon:https://raw.githubusercontent.com/HaydenSkeletoid/Magic-Clicker/main/wandclick.png
 		no text
 		class:bigButton hasFlares
 		icon class:shadowed
