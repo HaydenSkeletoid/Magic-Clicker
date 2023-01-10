@@ -7,7 +7,7 @@ Let's make a game!
 	version:0
 
 Settings
-	background:https://github.com/HaydenSkeletoid/Magic-Clicker/blob/main/background.jpg?raw=true
+	background:https://raw.githubusercontent.com/HaydenSkeletoid/Magic-Clicker/main/background.jpg
 	building cost increase:115%
 	building cost refund:50%
 	spritesheet:icons, 48 by 48, stuff/bunnyIcons.png
