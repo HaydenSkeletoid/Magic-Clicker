@@ -24,7 +24,7 @@ Buttons
 		on click:anim icon wobble
 		on click:yield 1 bunny
 		on click:if (have goldenTouch and chance(1%)) yield 1 goldenCarrot
-		icon:wandclick.png
+		icon:parent.wandclick.png
 		no text
 		class:bigButton hasFlares
 		icon class:shadowed
